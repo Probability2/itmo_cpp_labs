@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12997653&assignment_repo_type=AssignmentRepo)
 # Лабораторная работа 5
 
 ## Задача
@@ -37,8 +36,3 @@ std::cout << arr[4][3][2];
 1. Использование стандартной библиотеки помимо операторов ввода и вывода - запрещено
 2. Ограничение по памяти на класс - (x * y * z * 17)/8 + const, где x, y, z - размер массива, const - некоторая константа
 
-## Deadline
-
-1. 5.12.23 24:00 - 0.8
-2. 12.12.23 24:00 - 0.65
-3. 19.12.23 24:00 - 0.5
