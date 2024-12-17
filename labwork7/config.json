@@ -1,0 +1,24 @@
+{
+  "cities": [
+    {
+      "name": "Saint Petersburg"
+    },
+    {
+      "name": "Yerevan"
+    },
+    {
+      "name": "Tel Aviv"
+    },
+    {
+      "name": "New York"
+    },
+    {
+      "name": "Tokyo"
+    },
+    {
+      "name": "Chennai"
+    }
+  ],
+  "update_frequency": 3600,
+  "forecast_days": 3
+}
