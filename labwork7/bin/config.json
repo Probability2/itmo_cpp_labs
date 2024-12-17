@@ -1,0 +1,33 @@
+{
+  "cities": [
+    {
+      "name": "Saint Petersburg"
+    },
+    {
+      "name": "Yerevan"
+    },
+    {
+      "name": "Tel Aviv"
+    },
+    {
+      "name": "New York"
+    },
+    {
+      "name": "Tokyo"
+    },
+    {
+      "name": "Dubai"
+    },
+    {
+      "name": "Palma"
+    },
+    {
+      "name": "Haifa"
+    },
+    {
+      "name": "Jerusalem"
+    }
+  ],
+  "update_frequency": 3600,
+  "forecast_days": 3
+}
