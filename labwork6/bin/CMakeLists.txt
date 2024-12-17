@@ -1,0 +1,10 @@
+add_executable(${PROJECT_NAME} main.cpp)
+
+target_link_libraries(${PROJECT_NAME} PRIVATE argparser)
+target_link_libraries(${PROJECT_NAME} PRIVATE string_argument_class)
+target_link_libraries(${PROJECT_NAME} PRIVATE int_argument_class)
+target_link_libraries(${PROJECT_NAME} PRIVATE flag_class)
+target_link_libraries(${PROJECT_NAME} PRIVATE archive)
+target_link_libraries(${PROJECT_NAME} PRIVATE haf_data)
+target_link_libraries(${PROJECT_NAME} PRIVATE utility)
+target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR})
