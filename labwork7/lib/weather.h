@@ -160,7 +160,7 @@ std::vector<std::string> GetWMOImage(const uint8_t code);
 
 std::string GetWeekDay(const int day);
 
-static const std::string kMyApiAddress = "TvNcPARiXt4FeMhJ5MoMdQ==c0G6eZXobEq0X3NF";
+static const std::string kMyApiAddress;
 
 bool BuildForecast(const nlohmann::json& data, const int days, const std::size_t city_index, std::map<std::string, City>& cities);
 
